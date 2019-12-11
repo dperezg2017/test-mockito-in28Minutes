@@ -1,0 +1,28 @@
+package com.example.lab01;
+
+import static org.junit.Assert.*;
+
+import java.util.Arrays;
+
+import org.junit.*;
+
+public class ArraysCompareTest {
+
+	@Test
+	public void testArraysSort_RandomArray() {
+		int[] numbers = {12,3,4,1};
+		int[] expected= {1,3,4,12}; 
+		
+		for(int i : numbers) {
+			StringBuilder lista = new StringBuilder();
+					lista.append(i);
+		}
+		
+		System.out.println("numbers:"+ lista);
+		
+		Arrays.sort(numbers);
+		System.out.println("sort:"+ numbers);
+		
+		assertArrayEquals(expected, numbers);
+	}
+}

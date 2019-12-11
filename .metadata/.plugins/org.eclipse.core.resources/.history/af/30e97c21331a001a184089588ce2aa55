@@ -1,0 +1,14 @@
+package com.example.lab01;
+
+import static org.junit.Assert.fail;
+
+import org.junit.Test;
+
+public class StringHelperTest {
+	
+	@Test
+	public void test() {
+		fail("Aun no implementado");
+	}
+
+}

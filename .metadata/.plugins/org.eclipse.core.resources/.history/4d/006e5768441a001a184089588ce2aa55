@@ -1,0 +1,11 @@
+package com.example.lab01;
+
+public class QuickBeforeAfterTest {
+
+	
+	
+	
+	public void test() {
+		
+	}
+}

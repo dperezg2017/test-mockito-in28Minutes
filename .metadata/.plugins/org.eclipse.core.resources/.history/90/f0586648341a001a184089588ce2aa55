@@ -1,0 +1,20 @@
+package com.example.lab01;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.fail;
+
+import org.junit.Test;
+
+import com.in28Minutes.junit.helper.StringHelper;
+
+public class StringHelperTest {
+	
+	@Test
+	public void test() {
+		StringHelper helper = new StringHelper();
+		String actual = helper.truncateAInFirst2Positions("AACD");
+		String esperado = "CD";
+		assertEquals(actual, esperado);
+	}
+
+}

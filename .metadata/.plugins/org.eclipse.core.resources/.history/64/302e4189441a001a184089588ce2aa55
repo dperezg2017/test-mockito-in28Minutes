@@ -1,0 +1,13 @@
+package com.example.lab01;
+
+import org.junit.Test;
+
+public class QuickBeforeAfterTest {
+
+	
+	
+	@Test
+	public void test() {
+		
+	}
+}

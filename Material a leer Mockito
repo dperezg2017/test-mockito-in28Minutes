@@ -1,0 +1,51 @@
+=============================================
+JUNIT 
+====================================
+#Assers para comparar String, esperar Boolean, Arreglos
+assertEquals("ABC", "ABC");
+assertFalse(false);
+assertFalse(true);
+assertArrayEquals
+#Anotacion para que se ejecuten Antes o Despues de cada metodo de la clase.
+@After
+@Before
+assertFalse(true);
+#Anotacion para que se ejecuten Antes o Despues de ejecutar toda la clase
+@After
+@After
+@BeforeClass
+#ordenar ascendente un arreglo INT, de menor a mayor
+int[] arreglo = {12,3,4,1};
+Arrays.sort(arreglo); => 1,3,4,12
+#En la anotacion Test de los metodos, se puede esperar un NULL 
+	@Test(expected = NullPointerException.class)
+	public void testArraySort_NullArray() {
+		int[] numbers = null;
+		Arrays.sort(numbers);
+	}
+#poner timeout a los metodos, maximo que se pueden demorar:
+@Test(timeout = 100)
+public void testSort_Perfomance() {
+	int array[] = {12,23,4};
+	for(int i=1;i<=1000000;i++) {
+		array[0]=i;
+		Arrays.sort(array);
+	}
+}
+#Parametrizar variables en una clase, input y expectedOutputs son publicos en la clase
+@RunWith(Parameterized.class)
+public class StringHelperParameterizedTest {
+	static StringHelper helper = new StringHelper();
+	private String input;
+	private String expectedOutputs;
+	public StringHelperParameterizedTest(String input, String expectedOutputs) {
+		super();
+		this.input = input;
+		this.expectedOutputs = expectedOutputs;
+	}
+	@Parameters
+	public static Collection<String[]> testConditions() {
+		String expectedOutputssss [][]= {{"AACD","CD"},
+				{"ACD","CD"}};
+		return Arrays.asList(expectedOutputssss);
+	}

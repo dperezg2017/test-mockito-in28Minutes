@@ -1,0 +1,635 @@
+2019-12-08 20:45:47,295 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-08 20:46:32,658 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/pom.xml
+2019-12-08 20:46:33,676 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.lab01:unit-testing-junit:0.0.1-SNAPSHOT @ /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/pom.xml.
+2019-12-08 20:46:34,110 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /unit-testing-junit/src/main/java
+2019-12-08 20:46:34,112 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /unit-testing-junit/src/test/java
+2019-12-08 20:46:34,805 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-12-08 20:46:35,307 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:46:35,307 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 20:46:35,308 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:46:35,309 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 20:48:46,620 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:48:46,620 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 20:48:46,621 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:48:46,621 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 20:48:58,674 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:48:58,674 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 20:48:58,675 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:48:58,676 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 20:48:59,686 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:48:59,686 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 20:48:59,687 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:48:59,687 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 20:49:05,343 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:49:05,344 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 20:49:05,345 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 20:49:05,345 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:15:07,995 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:15:07,995 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:15:07,997 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:15:07,997 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:15:57,820 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:15:57,820 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:15:57,821 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:15:57,822 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:16:39,888 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:16:39,888 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:16:39,892 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:16:39,892 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:17:46,629 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:17:46,629 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:17:46,631 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:17:46,631 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:18:21,239 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:18:21,240 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:18:21,242 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:18:21,243 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:19:28,201 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:19:28,201 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:19:28,202 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:19:28,202 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:19:53,791 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:19:53,791 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:19:53,792 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:19:53,792 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:22:17,668 [Worker-16: Launching StringHelperTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:22:17,668 [Worker-16: Launching StringHelperTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:22:17,669 [Worker-16: Launching StringHelperTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:22:17,670 [Worker-16: Launching StringHelperTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:22:29,704 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:22:29,704 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:22:29,705 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:22:29,705 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:24:45,772 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:24:45,772 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:24:45,773 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:24:45,773 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:24:57,307 [Worker-20: Launching StringHelperTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:24:57,307 [Worker-20: Launching StringHelperTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:24:57,309 [Worker-20: Launching StringHelperTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:24:57,310 [Worker-20: Launching StringHelperTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:29:00,712 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:29:00,712 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:29:00,713 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:29:00,714 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:29:13,518 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:29:13,518 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:29:13,519 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:29:13,520 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:30:44,469 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:30:44,469 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:30:44,470 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:30:44,470 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:31:23,674 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:31:23,675 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:31:23,675 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:31:23,675 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:32:06,534 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:32:06,534 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:32:06,534 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:32:06,534 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:32:39,603 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:32:39,604 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:32:39,605 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:32:39,606 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:34:01,774 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:34:01,774 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:34:01,775 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:34:01,775 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:35:02,540 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:35:02,540 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:35:02,541 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:35:02,542 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:35:06,179 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:35:06,180 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:35:06,181 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:35:06,181 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:35:07,431 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:35:07,431 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:35:07,432 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:35:07,432 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:36:05,064 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:36:05,064 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:36:05,065 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:36:05,065 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:36:09,350 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:36:09,350 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:36:09,350 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:36:09,350 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:48:40,473 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:48:40,474 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:48:40,474 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:48:40,474 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:49:11,429 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:49:11,429 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:49:11,432 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:49:11,432 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:49:35,409 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:49:35,409 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:49:35,411 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:49:35,411 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:49:37,771 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:49:37,771 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:49:37,772 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:49:37,772 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 22:50:17,575 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:50:17,575 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 22:50:17,578 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 22:50:17,578 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:18:17,920 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:18:17,920 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:18:17,921 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:18:17,921 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:19:45,431 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:19:45,431 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:19:45,432 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:19:45,432 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:21:41,028 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:21:41,029 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:21:41,029 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:21:41,029 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:22:13,406 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:22:13,406 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:22:13,407 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:22:13,407 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:22:18,126 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:22:18,126 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:22:18,127 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:22:18,127 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:22:39,995 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:22:39,995 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:22:39,996 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:22:39,996 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:23:06,820 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:23:06,821 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:23:06,821 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:23:06,821 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:23:09,876 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:23:09,877 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:23:09,877 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:23:09,877 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:23:22,405 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:23:22,405 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:23:22,406 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:23:22,406 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:50:20,214 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:50:20,215 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:50:20,217 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:50:20,217 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-08 23:50:34,379 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:50:34,379 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-08 23:50:34,380 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-08 23:50:34,380 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:23:48,193 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:23:48,193 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:23:48,195 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:23:48,195 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:24:06,273 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:24:06,273 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:24:06,274 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:24:06,274 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:26:04,154 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:26:04,154 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:26:04,155 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:26:04,155 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:26:10,004 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:26:10,004 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:26:10,005 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:26:10,005 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:26:13,603 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:26:13,603 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:26:13,604 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:26:13,604 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:27:05,226 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:27:05,226 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:27:05,226 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:27:05,226 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:27:40,103 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:27:40,103 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:27:40,104 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:27:40,105 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:27:44,481 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:27:44,481 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:27:44,482 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:27:44,482 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:27:49,318 [Worker-31: Launching QuickBeforeAfterTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:27:49,319 [Worker-31: Launching QuickBeforeAfterTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:27:49,319 [Worker-31: Launching QuickBeforeAfterTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:27:49,319 [Worker-31: Launching QuickBeforeAfterTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:28:11,274 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:28:11,274 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:28:11,275 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:28:11,275 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:28:16,659 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:28:16,659 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:28:16,660 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:28:16,661 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:28:41,709 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:28:41,709 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:28:41,710 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:28:41,710 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:29:58,112 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:29:58,112 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:29:58,113 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:29:58,113 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:30:12,730 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:30:12,730 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:30:12,731 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:30:12,731 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:30:31,816 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:30:31,816 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:30:31,817 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:30:31,817 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:30:35,734 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:30:35,734 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:30:35,734 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:30:35,734 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:31:06,107 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:31:06,107 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:31:06,108 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:31:06,109 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:31:16,992 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:31:16,992 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:31:16,993 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:31:16,993 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:31:48,843 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:31:48,844 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:31:48,844 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:31:48,844 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:32:03,245 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:32:03,245 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:32:03,246 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:32:03,247 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:32:18,228 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:32:18,228 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:32:18,228 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:32:18,228 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:33:13,296 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:33:13,296 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:33:13,297 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:33:13,297 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:33:24,727 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:33:24,727 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:33:24,728 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:33:24,728 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:33:39,656 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:33:39,657 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:33:39,658 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:33:39,658 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:47:02,075 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:47:02,075 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:47:02,075 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:47:02,075 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:47:13,369 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:47:13,369 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:47:13,370 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:47:13,370 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:47:22,130 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:47:22,130 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:47:22,131 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:47:22,131 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:47:34,478 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:47:34,478 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:47:34,479 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:47:34,479 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:48:10,484 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:48:10,484 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:48:10,485 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:48:10,485 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:50:32,098 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:50:32,098 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:50:32,099 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:50:32,099 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:50:45,976 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:50:45,976 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:50:45,976 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:50:45,976 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:50:54,599 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:50:54,600 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:50:54,600 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:50:54,600 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:51:06,467 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:51:06,467 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:51:06,468 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:51:06,468 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:51:39,273 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:51:39,274 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:51:39,274 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:51:39,274 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:51:51,367 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:51:51,367 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:51:51,368 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:51:51,368 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:51:54,806 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:51:54,806 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:51:54,806 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:51:54,806 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:52:00,622 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:52:00,622 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:52:00,622 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:52:00,622 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:52:53,378 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:52:53,378 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:52:53,379 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:52:53,379 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:53:54,668 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:53:54,669 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:53:54,669 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:53:54,669 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:56:41,362 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:56:41,362 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:56:41,363 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:56:41,363 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:57:07,915 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:57:07,916 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:57:07,917 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:57:07,917 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:58:08,924 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:58:08,924 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:58:08,925 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:58:08,925 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:58:14,072 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:58:14,073 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:58:14,073 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:58:14,073 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:58:30,907 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:58:30,908 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:58:30,908 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:58:30,908 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:58:49,438 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:58:49,438 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:58:49,438 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:58:49,439 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:59:09,457 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:59:09,458 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:59:09,459 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:59:09,459 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:59:19,164 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:59:19,164 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:59:19,165 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:59:19,165 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 00:59:21,324 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:59:21,325 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 00:59:21,325 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 00:59:21,325 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:00:25,558 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:00:25,559 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:00:25,559 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:00:25,559 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:00:57,921 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:00:57,922 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:00:57,923 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:00:57,923 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:01:08,655 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:01:08,655 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:01:08,656 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:01:08,656 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:01:15,377 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:01:15,377 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:01:15,378 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:01:15,378 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:01:54,181 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:01:54,181 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:01:54,182 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:01:54,182 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:02:13,131 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:02:13,131 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:02:13,132 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:02:13,132 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:02:37,764 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:02:37,764 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:02:37,765 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:02:37,765 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:02:40,012 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:02:40,012 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:02:40,013 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:02:40,013 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:04:57,191 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:04:57,191 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:04:57,192 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:04:57,192 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:08:36,382 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:08:36,382 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:08:36,383 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:08:36,383 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:08:46,884 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:08:46,884 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:08:46,885 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:08:46,885 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:09:18,212 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:09:18,212 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:09:18,213 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:09:18,213 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:09:47,305 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:09:47,305 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:09:47,306 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:09:47,306 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:10:07,197 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:10:07,197 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:10:07,198 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:10:07,198 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:10:30,894 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:10:30,894 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:10:30,895 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:10:30,895 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:12:52,483 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:12:52,483 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:12:52,484 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:12:52,484 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:13:00,599 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:13:00,600 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:13:00,600 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:13:00,600 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:13:25,250 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:13:25,250 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:13:25,251 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:13:25,251 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:14:19,970 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:14:19,970 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:14:19,971 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:14:19,971 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:37:00,949 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:37:00,949 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:37:00,950 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:37:00,951 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:37:15,740 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:37:15,740 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:37:15,741 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:37:15,741 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:37:17,776 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:37:17,776 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:37:17,777 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:37:17,777 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:38:15,275 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:38:15,276 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:38:15,277 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:38:15,277 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:38:24,426 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:38:24,427 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:38:24,428 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:38:24,428 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:39:57,022 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:39:57,022 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:39:57,023 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:39:57,023 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:42:29,179 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:42:29,179 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:42:29,179 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:42:29,180 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:42:46,967 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:42:46,968 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:42:46,968 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:42:46,968 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:43:17,522 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:43:17,522 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:43:17,523 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:43:17,523 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:43:24,347 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:43:24,347 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:43:24,348 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:43:24,348 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:43:30,784 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:43:30,785 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:43:30,785 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:43:30,785 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:43:38,852 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:43:38,852 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:43:38,853 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:43:38,853 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:45:13,690 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:45:13,690 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:45:13,691 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:45:13,691 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:47:19,784 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:47:19,785 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:47:19,785 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:47:19,785 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:47:53,757 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:47:53,757 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:47:53,757 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:47:53,758 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:48:12,570 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:48:12,570 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:48:12,571 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:48:12,571 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:48:23,800 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:48:23,801 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:48:23,801 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:48:23,801 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:52:24,418 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:52:24,418 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:52:24,418 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:52:24,419 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:53:01,184 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:53:01,185 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:53:01,186 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:53:01,186 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:54:39,102 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:54:39,102 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:54:39,102 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:54:39,103 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:56:18,142 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:56:18,142 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:56:18,143 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:56:18,143 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:58:23,953 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:58:23,953 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:58:23,953 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:58:23,953 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:58:30,942 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:58:30,943 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:58:30,943 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:58:30,943 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:58:37,343 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:58:37,343 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:58:37,344 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:58:37,345 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:58:44,427 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:58:44,427 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:58:44,428 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:58:44,428 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:59:16,275 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:59:16,275 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:59:16,275 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:59:16,275 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:59:23,333 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:59:23,334 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:59:23,334 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:59:23,334 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 01:59:35,969 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:59:35,969 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 01:59:35,970 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 01:59:35,970 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:00:52,311 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:00:52,311 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:00:52,312 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:00:52,312 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:01:21,081 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:01:21,082 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:01:21,082 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:01:21,082 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:01:42,933 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:01:42,933 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:01:42,934 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:01:42,934 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:01:50,887 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:01:50,887 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:01:50,887 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:01:50,887 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:03:04,399 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:03:04,399 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:03:04,400 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:03:04,400 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:04:21,066 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:04:21,067 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:04:21,067 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:04:21,067 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:04:33,205 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:04:33,206 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:04:33,207 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:04:33,207 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:05:28,705 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:05:28,705 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:05:28,706 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:05:28,706 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:05:42,040 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:05:42,040 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:05:42,041 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:05:42,041 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:05:51,419 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:05:51,420 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:05:51,421 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:05:51,421 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:08:38,472 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:08:38,472 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:08:38,473 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:08:38,473 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:09:19,687 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:09:19,687 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:09:19,688 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:09:19,688 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:10:05,512 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:10:05,512 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:10:05,512 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:10:05,512 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:10:11,218 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:10:11,218 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:10:11,219 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:10:11,219 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:11:40,723 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:11:40,723 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:11:40,724 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:11:40,724 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:11:43,738 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:11:43,739 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:11:43,739 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:11:43,740 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:11:54,853 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:11:54,853 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:11:54,853 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:11:54,853 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-09 02:12:06,916 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:12:06,916 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/main/resources
+2019-12-09 02:12:06,916 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-09 02:12:06,916 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/deyvisperez/deyvizperez/udemy/test-mockito-in28Minutes/unit-testing-junit/src/test/resources
+2019-12-10 01:13:56,072 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

@@ -1,0 +1,5 @@
+package com.in28Minutes.junit.helper;
+
+public class StringHelper {
+
+}
