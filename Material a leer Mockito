@@ -49,3 +49,19 @@ public class StringHelperParameterizedTest {
 				{"ACD","CD"}};
 		return Arrays.asList(expectedOutputssss);
 	}
+
+
+	https://github.com/in28minutes/MockitoTutorialForBeginners/blob/master/Step17.md
+# para mockito
+			<dependency>
+				<groupId>junit</groupId>
+				<artifactId>junit</artifactId>
+				<version>4.12</version>
+				<scope>test</scope>
+			</dependency>
+			<dependency>
+				<groupId>org.mockito</groupId>
+				<artifactId>mockito-core</artifactId>
+				<version>3.2.4</version>
+				<scope>test</scope>
+			</dependency>

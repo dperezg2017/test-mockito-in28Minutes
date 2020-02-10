@@ -6,10 +6,10 @@ import java.util.List;
 import com.in28minutes.data.api.TodoService;
 
 public class TodoBusinessImpl {
-	
+
 	private TodoService todoService;
 
-	public TodoBusinessImpl(TodoService todoService) {
+	TodoBusinessImpl(TodoService todoService) {
 		this.todoService = todoService;
 	}
 
@@ -22,5 +22,22 @@ public class TodoBusinessImpl {
 			}
 		}
 		return filteredTodos;
+	}
+
+	public void deleteTodosNotRelatedToSpring(String user) {
+		List<String> allTodos = todoService.retrieveTodos(user);
+		for (String todo : allTodos) {
+			if (!todo.contains("Spring")) {
+				todoService.deleteTodo(todo);
+			}
+		}
+	}
+	public void deleteTodosNotRelatedToSpring_capture(String user) {
+		List<String> allTodos = todoService.retrieveTodos(user);
+		for (String todo : allTodos) {
+			if (!todo.contains("Spring")) {
+				todoService.deleteTodo(todo);
+			}
+		}
 	}
 }

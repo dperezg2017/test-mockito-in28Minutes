@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tci-pse-comprobante" />
+        <module name="unit-testing-junit" />
+        <module name="in28minutes-mockito-example-data-api" />
+        <module name="in28minutes-mockito-example-model" />
+        <module name="in28minutes-mockito-example-data-impl" />
+        <module name="in28minutes-mockito-example-business-impl" />
+        <module name="in28minutes-mockito-example-business-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="in28minutes-mockito-example-business" target="1.8" />
+      <module name="in28minutes-mockito-example-business-api" target="1.8" />
+      <module name="in28minutes-mockito-example-business-impl" target="1.8" />
+      <module name="in28minutes-mockito-example-data" target="1.8" />
+      <module name="in28minutes-mockito-example-data-api" target="1.8" />
+      <module name="in28minutes-mockito-example-data-impl" target="1.8" />
+      <module name="in28minutes-mockito-example-model" target="1.8" />
+      <module name="real-world-mockito-example" target="1.8" />
+      <module name="tci-pse-comprobante" target="1.8" />
+      <module name="unit-testing-junit" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tci-pse-comprobante" options="" />
+    </option>
+  </component>
+</project>

@@ -3,16 +3,16 @@ package com.in28minutes.data.api;
 import java.util.Arrays;
 import java.util.List;
 
-public class TodoServiceStub implements TodoService{
-
+public class TodoServiceStub implements TodoService {
 	public List<String> retrieveTodos(String user) {
-
-		return Arrays.asList("Learn Spring MVC","Learn Spring","Learn to Dance");
+		return Arrays.asList("Learn Spring MVC", "Learn Spring",
+				"Learn to Dance");
 	}
 
-	public List<String> configureSomething(String user) {
+	public void deleteTodo(String todo) {
 
-		return null;
 	}
+	public void deleteTodo_2(String todo) {
 
+	}
 }
